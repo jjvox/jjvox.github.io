@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "jjvox 개발 공부 일지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "jjvox"
 description              : "An amazing website."
 url                      : "https://jjvox.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

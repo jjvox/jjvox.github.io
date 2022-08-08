@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "3회차 코딩 테스트"
 summary: 3회차 코딩테스트
 author: jjvox

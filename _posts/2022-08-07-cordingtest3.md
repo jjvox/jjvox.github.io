@@ -17,18 +17,19 @@ date: '2022-08-07'
  <p> 그러나 다른사람 답안지를 보니.. 정말 쉽고 깔끔하게 해결 했더라 ㅜㅜ </p>
 
 
-function solution(s) {
-   var answer = '';   
+<pre>
+  function solution(s) {
+     var answer = '';   
 
-   s = s.split("");
-   s = s.reverse();
-   for ( let i = 0 ; i < s.length; i ++){
-   answer += s[i];
-	}
+    s = s.split("");
+    s = s.reverse();
+     for ( let i = 0 ; i < s.length; i ++){
+     answer += s[i];
+	  }
     
- return answer;
-}
-
+  return answer;
+  }
+</pre>
 
 
 
@@ -59,8 +60,7 @@ function solution(nums) {
   <div>
       <h4> 세번째 접두사 갯수 출력 문제... </h4>
        <p>시간을 엄청 잡아 먹었고 0.6점 밖에 획득하지 못했다. ㅜㅜ </p>
-
-​      
+   
 
 
 ```javascript

@@ -17,9 +17,13 @@ date: '2022-08-07'
  <p> 배열로 바꿔 쪼갠 다음 다시 합했다. </p>
   <p> 그러나 다른사람 답안지를 보니.. 정말 쉽고 깔끔하게 해결 했더라 ㅜㅜ </p>
 
+<<<<<<< HEAD
 
 
 ```javascript
+=======
+````js
+>>>>>>> 711a873ecfa31deaea1fafd7488128b308815a04
 function solution(s) {
    var answer = '';   
 
@@ -32,11 +36,16 @@ function solution(s) {
     
  return answer;
 }
+<<<<<<< HEAD
 ```
 
 
 
 
+=======
+````
+   
+>>>>>>> 711a873ecfa31deaea1fafd7488128b308815a04
 
   <div>
   <h4> 두번째 문제. 규칙을 만족하는 a,b 쌍의 갯수 출력 </h4>

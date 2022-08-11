@@ -17,7 +17,8 @@ date: '2022-08-07'
  <p> 그러나 다른사람 답안지를 보니.. 정말 쉽고 깔끔하게 해결 했더라 ㅜㅜ </p>
 
 
-<pre>
+```Javascript
+
   function solution(s) {
      var answer = '';   
 
@@ -29,7 +30,7 @@ date: '2022-08-07'
     
   return answer;
   }
-</pre>
+```
 
 
 

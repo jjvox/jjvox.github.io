@@ -12,40 +12,25 @@ date: '2022-08-07'
  <p> 1회차때 하나도 못풀고 2회차때 3점을 얻었고 이번 3회차 에선 5.4점을 얻었다. </p>
  </div>
 
-<div> 
  <h4> 첫번째 문제. 문자열 역으로 출력하기. </h4>
  <p> 배열로 바꿔 쪼갠 다음 다시 합했다. </p>
-  <p> 그러나 다른사람 답안지를 보니.. 정말 쉽고 깔끔하게 해결 했더라 ㅜㅜ </p>
-
-<<<<<<< HEAD
+ <p> 그러나 다른사람 답안지를 보니.. 정말 쉽고 깔끔하게 해결 했더라 ㅜㅜ </p>
 
 
-```javascript
-=======
-````js
->>>>>>> 711a873ecfa31deaea1fafd7488128b308815a04
 function solution(s) {
    var answer = '';   
 
    s = s.split("");
    s = s.reverse();
-
-	for ( let i = 0 ; i < s.length; i ++){
-    answer += s[i];
+   for ( let i = 0 ; i < s.length; i ++){
+   answer += s[i];
 	}
     
  return answer;
 }
-<<<<<<< HEAD
-```
 
 
 
-
-=======
-````
-   
->>>>>>> 711a873ecfa31deaea1fafd7488128b308815a04
 
   <div>
   <h4> 두번째 문제. 규칙을 만족하는 a,b 쌍의 갯수 출력 </h4>

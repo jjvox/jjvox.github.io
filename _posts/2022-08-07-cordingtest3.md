@@ -1,19 +1,22 @@
 ---
 layout: single
-title: "3회차 코딩 테스트"
+title: "코딩 테스트 3회차"
 categories: "cording_test"
 tag: [JS, 제로베이스프론트엔드스쿨]
 toc: true
+author_profile: true
+#sidebar:
+#  nav: "docs"
 ---
 
-### 3회차 코딩테스트
+### 코딩테스트 3회차 (2022-08-03)
 
 1회차때 하나도 못풀고 2회차때 3점을 얻었고 이번 3회차 에선 5.4점을 얻었다.
 
 #### 첫번째 문제. 문자열 역으로 출력하기.
 
  <p> 배열로 바꿔 쪼갠 다음 다시 합했다. </p>
-  <p> 그러나 다른사람 답안지를 보니.. 정말 쉽고 깔끔하게 해결 했더라 ㅜㅜ </p>
+<p> 그러나 다른사람 답안지를 보니.. 정말 쉽고 깔끔하게 해결 했더라 ㅜㅜ </p>
 
 ```javascript
 function solution(s) {

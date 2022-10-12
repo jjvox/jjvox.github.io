@@ -76,8 +76,8 @@
 
   @include breakpoint($large) {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 0px;
+    right: 0px;
     width: $right-sidebar-width-narrow;
     margin-right: -1 * $right-sidebar-width-narrow;
     padding-left: 1em;
@@ -88,7 +88,7 @@
       position: -webkit-sticky;
       position: sticky;
       top: 2em;
-      float: left;
+      float: right;
 
       .toc {
         .toc__menu {
